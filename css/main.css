@@ -1,0 +1,54 @@
+   
+body, html {
+  height: 100%;
+}
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+  border:0;
+}
+.top {
+  height: 5%;
+ background-color: rgb(37, 159, 240);
+}
+
+.center{
+height: 12%;
+ background-color: rgb(250, 244, 244);
+
+}
+.centerimg img{
+margin-left: 40px;
+margin-top: 5px;
+width: 290px;
+height: auto;
+}
+.bottom{
+height: 75%;
+ background-color: rgb(98, 119, 241);
+
+}
+.bottom h3,h5{
+margin-left: 70px;
+margin-right: 50px;
+margin-top: 15px;
+text-align: center;
+}
+.formare{
+background-color: rgb(250, 244, 244);
+margin-top: 50px;
+margin-left: 10px;
+width: 400px;
+height: 300px;
+}
+.form{
+margin-left: 10px;
+margin-right: 20px;
+}
+.footer{
+height: 20%;
+ background-color: rgb(124, 141, 240);
+margin-top: 25px;
+}
+
