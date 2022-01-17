@@ -1,2 +1,2 @@
 
-### https://github.com/Mrjha2014/quzz.git
+### https://mrjha2014.github.io/quzz/
