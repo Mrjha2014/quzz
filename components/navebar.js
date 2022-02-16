@@ -12,14 +12,14 @@ document.write(`
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link " aria-current="page" href="/quzz/PAGES/index2.html">Online Courses</a>
+                    <a class="nav-link " aria-current="page" href="../PAGES/index2.html">Online Courses</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link " aria-current="page" href="../quzz/PAGES/index3.html">Live Classes</a>
+                    <a class="nav-link " aria-current="page" href="../PAGES/index3.html">Live Classes</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link " aria-current="page" href="../quzz/PAGES/index4.html">About</a>
+                    <a class="nav-link " aria-current="page" href="../PAGES/index4.html">About</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link " aria-current="page" href="#">Contact</a>
